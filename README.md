@@ -78,5 +78,3 @@ Digite uma senha, confirme a mesma e clique no botão _Change your password_.
 ___
 
 Ok, o ambiente local está pronto!
-
-Vá para a [aula 1](./1.md) para fazer o _setup_ do projeto de testes com Cypress.
